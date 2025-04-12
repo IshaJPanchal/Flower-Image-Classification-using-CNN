@@ -1,7 +1,3 @@
-# Flower-Image-Classification-using-CNN
-
-
-
 # 🌸 Flower Classification with CNN
 
 This project builds a Convolutional Neural Network (CNN) to classify images of flowers into five categories: **roses**, **tulips**, **sunflowers**, **daisy**, and **dandelions**. Built using TensorFlow and Keras, the model is trained on a publicly available flower dataset.
