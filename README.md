@@ -75,17 +75,6 @@ After applying **data augmentation** and **dropout**, the final model achieves:
 
 ---
 
-## 📁 File Structure
-
-```
-Flower_Image_Classification/
-│
-├── Flower_Image_Generation_v2_Annotated.ipynb   # Annotated training notebook
-├── flower_model.keras                            # Trained model (optional)
-└── README.md                                     # You're here!
-```
-
----
 
 ## 🙌 Acknowledgements
 
